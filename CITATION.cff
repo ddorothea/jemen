@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Günther"
+  given-names: "Annelies Dorothea"
+title: "Wann berichten deutsche Medien über den Krieg im Jemen?"
+version: 1.0.0
+date-released: 2023-03-20
+url: "https://github.com/ddorothea/jemen"
